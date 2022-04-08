@@ -4,7 +4,7 @@ the repository is related to demo of cloning
 using namespace std;
 
 int main() {
-	// Write your code here
+	
 	int a,b;
     cin>>a>>b;
     int n=1;
