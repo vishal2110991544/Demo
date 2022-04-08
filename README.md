@@ -1,6 +1,6 @@
 # Demo
 the repository is related to demo of cloning
-#include<iostream>
+include<iostream>
 using namespace std;
 
 int main() {
